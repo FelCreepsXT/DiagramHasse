@@ -1,0 +1,4 @@
+E:\Hasse\Hasse\Project34\Debug\Project34.vcxprojAssemblyReference.cache
+E:\Hasse\Hasse\Project34\Debug\Project34.Inicio.resources
+E:\Hasse\Hasse\Project34\Debug\Project34.MyForm.resources
+E:\Hasse\Hasse\Project34\Debug\Project34.vcxproj.GenerateResource.cache
